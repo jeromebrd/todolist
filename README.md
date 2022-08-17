@@ -4,10 +4,10 @@
 
 A simple todo list. We can do :
 
-- Add a to do,
-- Edit the to do,
-- Cancel the to do,
-- Change the status of the to do.
+- *Add* a to do,
+- *Edit* the to do,
+- *Cancel* the to do,
+- *Change* the status of the to do.
 
 ## License
 
