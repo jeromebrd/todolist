@@ -9,6 +9,4 @@ A simple todo list. We can do :
 - *Cancel* the to do,
 - *Change* the status of the to do.
 
-## License
-
 Project with training course : **dyma.fr**
